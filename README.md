@@ -1,4 +1,4 @@
-# 📊 InsightTalk Analyzer
+# WhatsApp Chat Analysis
 
 Insight Talk Analyzer is a web-based data analytics application designed to analyze WhatsApp chat conversations and extract meaningful insights using Python, Natural Language Processing (NLP), and interactive data visualization. The system processes raw, unstructured chat export files and converts them into structured datasets for detailed statistical and behavioral analysis.
 The application is developed using Streamlit and runs locally on providing a clean, interactive, and user-friendly interface.
